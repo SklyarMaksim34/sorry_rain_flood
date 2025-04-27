@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(160, 64, 249);
+    
+}
+header{
+    background-color: rgb(91, 29, 149);  
+    max-width: 100%; 
+    min-width: 100%;
+    text-align: center;
+}
+.text{
+    color: azure;
+    font-size: 30px;
+}
